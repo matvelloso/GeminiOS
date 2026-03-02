@@ -8,6 +8,8 @@ GeminiOS is an Electron shell that embeds [Google AI Studio](https://aistudio.go
 
 GeminiOS wraps Google AI Studio in a desktop application. When AI Studio generates and runs an app inside its preview iframe, that app gains access to a `window.geminiOS` JavaScript API that can read/write files, execute commands, access the clipboard, and more — all on your local machine.
 
+Simple example here: youtube.com/watch?v=SrOCR46jxmM&feature=youtu.be
+
 ### ⚠️ Security Warning
 
 **This effectively gives a website access to your local operating system.** While every operation requires explicit user approval through a permission dialog, you should:
